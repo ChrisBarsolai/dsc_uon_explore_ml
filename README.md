@@ -1,4 +1,4 @@
-# Ubunifu-AI-Workshop
+# DSC UoN | Explore ML
 A collection of notebooks used as tutorial material during DSC UoN Explore ML Workshop
 
 ![nairobiaidsc](https://user-images.githubusercontent.com/14905480/74280063-10dce300-4d2d-11ea-8a7f-e332c9105433.png)
